@@ -1,5 +1,5 @@
 # docker-wp
-Nginx+MySQL+WordPress  
+Nginx+MySQL+WordPress(WIP)  
 Example image:)
 
 ## Install
