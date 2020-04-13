@@ -24,8 +24,8 @@ $ nano .env
 
 Edit `.env` file as below.
 ```
-WP_WORKING_THEME_DIR=custom
-WP_THEME_DIR=custom
+WP_WORKING_THEME_DIR=./wp-content/themes/custom
+WP_THEME_DIR=/wp-content/themes/custom
 ```
 
 ## Run
